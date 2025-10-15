@@ -37,4 +37,3 @@ This project successfully implemented a **Big Data workflow** using PySpark to t
 ## Presented By
 
 **K. Vinay Balaji Reddy**
-*Mentor: Dr. B. Jogeswara Rao*
